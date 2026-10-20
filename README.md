@@ -20,6 +20,8 @@ The assembly is quite simple, just screw the injector in using the 6 nuts and bo
 
 NOTE: This is not a real rocket nozzle that can be used for propulsion, use it as decor OR go down the engineering route and run CFD on it and improve the engine.
 
+PRINTABLES LINK: https://www.printables.com/model/1884642-de-laval-rocket-nozzle
+
 <img width="1027" height="502" alt="Screenshot 2026-10-20 214805" src="https://github.com/user-attachments/assets/542f6ecf-1752-4d7b-8a04-62b2e24fb4ba" />
 <img width="1282" height="652" alt="Screenshot 2026-10-20 214831" src="https://github.com/user-attachments/assets/4c1f20c8-de14-44b7-add2-a5d236930df8" />
 <img width="1105" height="523" alt="Screenshot 2026-10-20 214815" src="https://github.com/user-attachments/assets/1a23c546-d0e6-4c09-8d79-09f9bcec2d14" />
