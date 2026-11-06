@@ -1,6 +1,7 @@
 # Liquid-Rocket-Nozzle-CAD-AUTODESK-FUSION-
 It's a CAD model of a De Laval Nozzle, made in fusion 360. 
 
+The physical dimensions:
 
 Throat Diameter: 75mm
 
@@ -19,6 +20,10 @@ Standard liquid engines have contraction ratios between 3 and 6; so this one jus
 The assembly is quite simple, just screw the injector in using the 6 nuts and bolts (if you are 3d printing it).
 
 NOTE: This is not a real rocket nozzle that can be used for propulsion, use it as decor OR go down the engineering route and run CFD on it and improve the engine.
+
+I have not run CFD on this engine yet, but based on its size we can estimate that it should be ROUGHLY around 5kn.
+
+Heads up: manufacturing this from metal is quite expensive, I checked pcbway for CNC, it was $5000.....
 
 PRINTABLES LINK: https://www.printables.com/model/1884642-de-laval-rocket-nozzle
 
