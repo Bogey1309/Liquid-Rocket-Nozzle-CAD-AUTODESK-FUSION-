@@ -1,6 +1,10 @@
 # Liquid-Rocket-Nozzle-CAD-AUTODESK-FUSION-
 It's a CAD model of a De Laval Nozzle, made in fusion 360. 
 
+It is meant to be a liquid rocket engine, there is an injector, nozzle, nuts and bolts.
+The injector atomizes the fuel/ox mixture for combustion. As you can see,  I have went with a showerhead injector here (these are quite weak compared to the other types of injectors but they are quite easy to model)
+
+
 The physical dimensions:
 
 Throat Diameter: 75mm
