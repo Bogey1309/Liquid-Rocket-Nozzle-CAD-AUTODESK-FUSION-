@@ -1,10 +1,16 @@
 # Liquid-Rocket-Nozzle-CAD-AUTODESK-FUSION-
 It's a CAD model of a De Laval Nozzle, made in fusion 360. 
 
+# What is is
 It is meant to be a liquid rocket engine, there is an injector, nozzle, nuts and bolts.
 The injector atomizes the fuel/ox mixture for combustion. As you can see,  I have went with a showerhead injector here (these are quite weak compared to the other types of injectors but they are quite easy to model)
 
+# Why I made this
+I am very much into aerospace design, I have launched solid model rockets before, both personal and in a rocketry team. So I wanted to try to model a liquid engine nozzle this time- which is something advanced for the hobbyist scale. 
+I also wanted to run CFD on it but I am limited by the tools and hardware I use. Simscale which is browser based cannot run combustion CFD, simflow- which has a free tier is too simple because it caps the free tier at a mesh size of 200k. My pc won't be able to run Ansys so cannot do that too.
+So whoever has the capabilities, please run CFD on this- for fun!
 
+## Dimensions & Estimated Performance
 The physical dimensions:
 
 Throat Diameter: 75mm
@@ -25,11 +31,23 @@ The assembly is quite simple, just screw the injector in using the 6 nuts and bo
 
 NOTE: This is not a real rocket nozzle that can be used for propulsion, use it as decor OR go down the engineering route and run CFD on it and improve the engine.
 
-I have not run CFD on this engine yet, but based on its size we can estimate that it should be ROUGHLY around 5kn.
+I have not run CFD on this engine yet, but based on its size we can estimate that it should be ROUGHLY around 5kn. (not verified, need cfd for it)
 
+# Assembly and MFG notes:
 Heads up: manufacturing this from metal is quite expensive, I checked pcbway for CNC, it was $5000.....
 
+I would recommend 3d printing it as a model, you can find the print files in my printables down below. 
+The model is split into: the nozzle, injector, screws, bolts. 
+
+I have verified the items to fit on a consumer printer of build plate size 256x256x256mm
 PRINTABLES LINK: https://www.printables.com/model/1884642-de-laval-rocket-nozzle
+
+# Limitations
+Once again, this is **NOT** a flight ready or hot fire worthy engine, don't try to test it without verifying it using CFD.
+
+There is **NO Regenerative Cooling**, so even if you DID get it right and test fire it, the engine will melt after some time.
+
+
 
 <img width="1027" height="502" alt="Screenshot 2026-10-20 214805" src="https://github.com/user-attachments/assets/542f6ecf-1752-4d7b-8a04-62b2e24fb4ba" />
 <img width="1282" height="652" alt="Screenshot 2026-10-20 214831" src="https://github.com/user-attachments/assets/4c1f20c8-de14-44b7-add2-a5d236930df8" />
