@@ -42,6 +42,9 @@ The model is split into: the nozzle, injector, screws, bolts.
 I have verified the items to fit on a consumer printer of build plate size 256x256x256mm
 PRINTABLES LINK: https://www.printables.com/model/1884642-de-laval-rocket-nozzle
 
+Assembly is quite simple. 
+Simply position the injector's holes over the nozzle's holes and screw them in using the given screws and bolts.
+
 # Limitations
 Once again, this is **NOT** a flight ready or hot fire worthy engine, don't try to test it without verifying it using CFD.
 
