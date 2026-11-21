@@ -34,7 +34,7 @@ NOTE: This is not a real rocket nozzle that can be used for propulsion, use it a
 I have not run CFD on this engine yet, but based on its size we can estimate that it should be ROUGHLY around 5kn. (not verified, need cfd for it)
 
 # Assembly and MFG notes:
-Heads up: manufacturing this from metal is quite expensive, I checked pcbway for CNC, it was $5000.....
+Heads up: manufacturing this from metal is quite expensive, I checked pcbway for CNC, it was $6000ish total (check the BOM folder for details)
 
 I would recommend 3d printing it as a model, you can find the print files in my printables down below. 
 The model is split into: the nozzle, injector, screws, bolts. 
